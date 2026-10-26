@@ -70,3 +70,12 @@ four original SVGs and the archived proposal remain under the existing
 LicenseRef-Proprietary terms. No third-party assets, dependencies, confidential
 information or new professional claims were introduced. LICENSE and NOTICE
 continue to cover all components; commercial contact only, with no funding or CI.
+
+## Experience clarification — 26 October 2026
+
+The owner clarified directly that 11+ years refers to the overall digital
+career, including 6+ years in software testing and earlier development, design
+and digital communication work. The profile text, banner and design archive
+now state that distinction explicitly. Pre-publication component review:
+original text and SVG edits only; existing LICENSE and NOTICE remain applicable.
+No third-party content, dependency or change in rights was introduced.

@@ -1,4 +1,4 @@
-<img src="assets/signal-hero.svg" width="100%" alt="Manoj Rollo. Engineering quality. Enabling business. Senior Digital Test Engineer and Senior Consultant. 11+ years of experience. Enterprise platforms, automation, performance and API testing." />
+<img src="assets/signal-hero.svg" width="100%" alt="Manoj Rollo. Engineering quality. Enabling business. Senior Digital Test Engineer and Senior Consultant. 11+ years in digital, including 6+ years in testing. Enterprise platforms, automation, performance and API testing." />
 
 <p align="center">
   <br />
@@ -11,7 +11,7 @@
 
 I'm **Manoj**, a Senior Digital Test Engineer / Senior Consultant at **Concept Quality Reply**, based in Turin, Italy. I help connect the quality of digital products with the business processes, teams and decisions behind them.
 
-My background spans **11+ years** of professional experience, including cross-platform automation, distributed performance testing, API validation and delivery coordination. Today, my focus includes **SAP, Salesforce, Microsoft Dynamics 365 and ServiceNow**, alongside custom web, mobile and integrated applications.
+My background spans **11+ years in digital**, including **6+ years in software testing**, building on earlier experience in **development, design and digital communication**. My testing work includes cross-platform automation, distributed performance testing, API validation and delivery coordination. Today, my focus includes **SAP, Salesforce, Microsoft Dynamics 365 and ServiceNow**, alongside custom web, mobile and integrated applications.
 
 ### Where I can help
 

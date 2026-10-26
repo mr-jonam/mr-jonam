@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="660" viewBox="0 0 1280 660" role="img" aria-labelledby="title desc">
   <title id="title">Manoj Rollo — Engineering quality. Enabling business.</title>
-  <desc id="desc">An original technical identity in charcoal and mint. A layered architecture drawing connects business, platforms and engineering. Eleven-plus years of experience, enterprise platforms and consulting or B2B collaboration.</desc>
+  <desc id="desc">An original technical identity in charcoal and mint. A layered architecture drawing connects business, platforms and engineering. Eleven-plus years in digital, including six-plus years in testing, with earlier experience in development, design and digital communication. Enterprise platforms and consulting or B2B collaboration.</desc>
   <defs>
     <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#29383e"/></pattern>
     <linearGradient id="plane" x2="0" y2="1"><stop stop-color="#82dac9" stop-opacity=".12"/><stop offset="1" stop-color="#82dac9" stop-opacity=".015"/></linearGradient>
@@ -47,7 +47,8 @@
     </g>
     <path d="M306 525V612M802 525V612" stroke="#29363d"/>
     <g font-family="Arial, Helvetica, sans-serif">
-      <text x="54" y="592" fill="#f2f5f7" font-size="40" font-weight="700" letter-spacing="-1">11+ <tspan font-size="24" font-weight="400" fill="#aebbc4">years</tspan></text>
+      <text x="54" y="579" fill="#f2f5f7" font-size="30" font-weight="700">11+ <tspan font-size="20" font-weight="400" fill="#aebbc4">years in digital</tspan></text>
+      <text x="54" y="611" fill="#f2f5f7" font-size="30" font-weight="700">6+ <tspan font-size="20" font-weight="400" fill="#aebbc4">years in testing</tspan></text>
       <text x="345" y="579" fill="#f2f5f7" font-size="22" font-weight="700">SAP / Salesforce</text>
       <text x="345" y="611" fill="#f2f5f7" font-size="22" font-weight="700">Dynamics 365 / ServiceNow</text>
       <text x="841" y="579" fill="#f2f5f7" font-size="22">Consulting / B2B partnerships</text>
