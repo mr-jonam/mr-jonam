@@ -1,0 +1,58 @@
+{
+  "schema": "mr-jonam.public-integrity.v1",
+  "project_id": "295a564c-74aa-446f-8d69-4903798a6ee7",
+  "project_token": "AEFvrOrF6ccxNRPAoSfcl_RIjMNN_QdurhtDGkw9e5Q",
+  "created_at": "2026-10-26T10:13:14.966Z",
+  "owner_ref": "mr-jonam",
+  "rights_profile": "restricted",
+  "license": {
+    "path": "LICENSE",
+    "sha256": "67ff4d81de0c22f98db883796932ec108218ff9828825046f0c41bb8d73a511a"
+  },
+  "source": {
+    "algorithm": "SHA-256",
+    "tree_digest": "609697a492c7302de046baaba9afdbf1b8b18fe27140e07e452b5a51db347693",
+    "digest_format": "Sorted UTF-8 relative paths, NUL byte, binary SHA-256 for each file; excludes .provenance/",
+    "tracked_file_count": 9,
+    "files": [
+      {
+        "path": ".gitattributes",
+        "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+      },
+      {
+        "path": ".gitignore",
+        "sha256": "3a704be9130c6bc0aaf0e65c862586f4bed97d5901080356af0cf796343c1fff"
+      },
+      {
+        "path": "AGENTS.md",
+        "sha256": "9a6bdf100b8eb641987269a7e4c34c23b5aaa9563803f1208ef39d1f687305bd"
+      },
+      {
+        "path": "LICENSE",
+        "sha256": "67ff4d81de0c22f98db883796932ec108218ff9828825046f0c41bb8d73a511a"
+      },
+      {
+        "path": "LICENSE-DECISION.md",
+        "sha256": "2d152acaa1cc8af57366b3c399922594511206df4fa9579dfbafe4afd3f6893b"
+      },
+      {
+        "path": "NOTICE",
+        "sha256": "6f241ceac494f714afa20a9b56c55a0c17b38020178b5d9ef3c51985ad9897ac"
+      },
+      {
+        "path": "README.md",
+        "sha256": "b114ed4876b72672fb4dd48bb23ae0a90bd646a8d895de97283cb44616de7467"
+      },
+      {
+        "path": "assets/profile-hero.svg",
+        "sha256": "24b273a65ee2e4433b065bbf9e3848f122ea59f4aa2e788af1ffc365dd1e4670"
+      },
+      {
+        "path": "assets/services-card.svg",
+        "sha256": "77384e8722753548e143d224b3de1984409f603ca5248b171426ad0bc44e0401"
+      }
+    ]
+  },
+  "signature": null,
+  "encrypted_identity": null
+}
