@@ -53,3 +53,12 @@ No signing key or public encryption recipient was configured for this task:
 no signature or encrypted identity envelope is claimed, and no key is generated.
 The manifest is an integrity/correlation record, not DRM or conclusive legal
 proof. Preserve it as the initial snapshot; later evidence should be additive.
+
+## Local design proposal review — 26 October 2026
+
+`proposals/signal/` adds original English profile copy, four original static SVGs
+and a design note. Existing `LicenseRef-Proprietary` terms apply. GitSkins was
+consulted for visual direction only; no template, preview image, font, code or
+other third-party asset is incorporated. Professional claims retain the same
+verified basis. This proposal is local and has not replaced the public profile.
+The initial provenance manifest remains unchanged.

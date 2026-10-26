@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="660" viewBox="0 0 1280 660" role="img" aria-labelledby="title desc">
+  <title id="title">Manoj Rollo — Engineering quality. Enabling business.</title>
+  <desc id="desc">An original technical identity in charcoal and mint. A layered architecture drawing connects business, platforms and engineering. Eleven-plus years of experience, enterprise platforms and consulting or B2B collaboration.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#29383e"/></pattern>
+    <linearGradient id="plane" x2="0" y2="1"><stop stop-color="#82dac9" stop-opacity=".12"/><stop offset="1" stop-color="#82dac9" stop-opacity=".015"/></linearGradient>
+    <clipPath id="frame"><rect x="1" y="1" width="1278" height="658" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="660" fill="#0c1218"/>
+    <rect x="760" y="80" width="520" height="440" fill="url(#dots)"/>
+    <path d="M0 0H1280V7H0Z" fill="#82dac9"/>
+    <path d="M56 103H1224M56 493H1224" stroke="#29363d"/>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="1.5">
+      <text x="56" y="64" fill="#82dac9">MR /</text>
+      <text x="121" y="64" fill="#aebbc4">BUSINESS × ENGINEERING</text>
+      <text x="1224" y="64" text-anchor="end" fill="#8d9fa9">mr-jonam / TURIN, IT</text>
+    </g>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="50" y="207" fill="#f2f5f7" font-size="92" font-weight="700" letter-spacing="-4">Manoj Rollo<tspan fill="#82dac9">.</tspan></text>
+      <text x="56" y="251" fill="#aebbc4" font-size="21">Senior Digital Test Engineer / Senior Consultant</text>
+      <text x="53" y="341" fill="#f2f5f7" font-size="52" font-weight="700" letter-spacing="-1.8">Engineering quality.</text>
+      <text x="53" y="404" fill="#82dac9" font-size="52" font-weight="700" letter-spacing="-1.8">Enabling business.</text>
+      <text x="56" y="451" fill="#aebbc4" font-size="20">From complex platforms to clearer release decisions.</text>
+    </g>
+    <g transform="translate(0 10)" stroke="#82dac9" stroke-width="1.3" fill="none">
+      <path d="M822 337L1004 238L1186 337L1004 436Z" fill="url(#plane)" stroke-opacity=".26"/>
+      <path d="M822 272L1004 173L1186 272L1004 371Z" fill="url(#plane)" stroke-opacity=".5"/>
+      <path d="M822 207L1004 108L1186 207L1004 306Z" fill="url(#plane)" stroke-opacity=".85"/>
+      <g stroke-opacity=".22">
+        <path d="M858 187L1040 286M895 167L1077 266M931 148L1113 247M968 128L1150 227"/>
+        <path d="M858 227L1040 128M895 247L1077 148M931 266L1113 167M968 286L1150 187"/>
+        <path d="M858 252L1040 351M895 232L1077 331M931 213L1113 312M968 193L1150 292"/>
+        <path d="M858 292L1040 193M895 312L1077 213M931 331L1113 232M968 351L1150 252"/>
+      </g>
+      <path d="M1004 207V436M822 207V337M1186 207V337" stroke-dasharray="4 6" stroke-opacity=".35"/>
+      <path d="M931 207L968 157L1004 207L1040 157L1077 207" stroke-width="5" stroke-linejoin="round"/>
+      <circle cx="1004" cy="371" r="6" fill="#82dac9" stroke="#0c1218" stroke-width="3"/>
+      <circle cx="822" cy="207" r="4" fill="#82dac9"/>
+      <circle cx="1186" cy="272" r="4" fill="#82dac9"/>
+    </g>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="1.5" fill="#8d9fa9">
+      <text x="1004" y="476" text-anchor="middle">BUSINESS / PLATFORMS / ENGINEERING</text>
+      <text x="56" y="536">01 / EXPERIENCE</text>
+      <text x="345" y="536">02 / ENTERPRISE FOCUS</text>
+      <text x="841" y="536">03 / LET'S WORK TOGETHER</text>
+    </g>
+    <path d="M306 525V612M802 525V612" stroke="#29363d"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="54" y="592" fill="#f2f5f7" font-size="40" font-weight="700" letter-spacing="-1">11+ <tspan font-size="24" font-weight="400" fill="#aebbc4">years</tspan></text>
+      <text x="345" y="579" fill="#f2f5f7" font-size="22">SAP / Salesforce</text>
+      <text x="345" y="611" fill="#aebbc4" font-size="20">Dynamics 365 / ServiceNow</text>
+      <text x="841" y="579" fill="#f2f5f7" font-size="22">Consulting / B2B partnerships</text>
+      <text x="841" y="611" fill="#aebbc4" font-size="20">Quality strategy to delivery</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1279" height="659" rx="20" fill="none" stroke="#35434b"/>
+</svg>

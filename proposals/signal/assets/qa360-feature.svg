@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="312" viewBox="0 0 1280 312" role="img" aria-labelledby="title desc">
+  <title id="title">Quality Engineering 360 — Explore the service portfolio</title>
+  <desc id="desc">One business journey. Every critical handoff. QA strategy, hands-on delivery and B2B partnerships. English and Italian.</desc>
+  <rect x=".5" y=".5" width="1279" height="311" rx="16" fill="#101d22" stroke="#365951"/>
+  <path d="M47 42V270" stroke="#82dac9" stroke-width="3"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="1.8" fill="#82dac9">
+    <text x="76" y="61">FEATURED / SERVICE PORTFOLIO</text>
+    <text x="1204" y="61" text-anchor="end">EN / IT</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="73" y="125" fill="#f2f5f7" font-size="44" font-weight="700" letter-spacing="-1.5">Quality Engineering 360</text>
+    <text x="76" y="173" fill="#c1ced4" font-size="24">One business journey. Every critical handoff.</text>
+    <text x="76" y="228" fill="#aebbc4" font-size="19">QA strategy / Hands-on delivery / B2B partnerships</text>
+    <text x="76" y="270" fill="#82dac9" font-size="19" font-weight="700">Explore the services →</text>
+  </g>
+  <g fill="none" stroke="#82dac9">
+    <circle cx="1065" cy="170" r="91" stroke-opacity=".18"/>
+    <path d="M1065 79A91 91 0 0 1 1156 170" stroke-width="3"/>
+    <circle cx="1065" cy="170" r="62" stroke-opacity=".38"/>
+    <path d="M1065 108A62 62 0 0 0 1003 170" stroke-width="3"/>
+    <path d="M1025 170H1105M1088 153L1105 170L1088 187" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1065" cy="261" r="4" fill="#82dac9" stroke="none"/>
+  </g>
+</svg>
