@@ -60,5 +60,13 @@ proof. Preserve it as the initial snapshot; later evidence should be additive.
 and a design note. Existing `LicenseRef-Proprietary` terms apply. GitSkins was
 consulted for visual direction only; no template, preview image, font, code or
 other third-party asset is incorporated. Professional claims retain the same
-verified basis. This proposal is local and has not replaced the public profile.
+verified basis. The user approved publication with equal visual weight for the
+four enterprise platforms and retention of the existing challenge and quality
+engineering sections. The approved design now replaces the root profile.
 The initial provenance manifest remains unchanged.
+
+Pre-publication review of the approved design: 26 October 2026. The root README,
+four original SVGs and the archived proposal remain under the existing
+LicenseRef-Proprietary terms. No third-party assets, dependencies, confidential
+information or new professional claims were introduced. LICENSE and NOTICE
+continue to cover all components; commercial contact only, with no funding or CI.

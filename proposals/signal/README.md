@@ -13,21 +13,25 @@ I'm **Manoj**, a Senior Digital Test Engineer / Senior Consultant at **Concept Q
 
 My background spans **11+ years** of professional experience, including cross-platform automation, distributed performance testing, API validation and delivery coordination. Today, my focus includes **SAP, Salesforce, Microsoft Dynamics 365 and ServiceNow**, alongside custom web, mobile and integrated applications.
 
-### What we can work on
+### Where I can help
 
-| Release confidence | Delivery efficiency |
-| :--- | :--- |
-| **Know what is ready.** Connect business risk, end-to-end coverage, UAT and release evidence across teams and suppliers. | **Make feedback useful.** Stabilise automation, validate integrations and investigate performance before they constrain delivery. |
+| Your challenge | A useful conversation |
+| --- | --- |
+| A critical release is approaching, but confidence is low | Connect business risk, end-to-end coverage, dependencies and release evidence. |
+| Regression is slow, automation is fragile, or performance surprises arrive late | Review feedback bottlenecks, test architecture, representative workloads and CI/CD integration. |
+| Teams and suppliers report progress differently | Establish shared quality criteria, ownership and reporting that supports decisions. |
+| An ERP/CRM change crosses several platforms | Validate the business journey across applications, integrations and data handoffs. |
+| AI features need more than a happy-path demo | Define evaluation scenarios, failure cases, human review and ongoing monitoring. |
 
-**Across the journey:** QA strategy · Functional & exploratory testing · API & integration · Web & mobile automation · Performance · AI evaluation · Quality governance
+### Quality engineering, from strategy to delivery
 
-**Hands-on foundation:** Selenium / Appium / JMeter / API testing / CI/CD
+**QA strategy & assessment** · **Functional & exploratory testing** · **API & integration testing** · **Web & mobile automation** · **Performance & load testing** · **UAT & release readiness** · **AI testing** · **Test management & delivery coordination**
 
-### From the challenge to a workable engagement
+My practical background includes **Selenium, Appium, JMeter, API testing and CI/CD integration**. I start with the business process and the delivery constraint, then select the tools and specialist support that fit.
 
-<a href="https://github.com/mr-jonam/quality-engineering-360"><img src="assets/qa360-feature.svg" width="100%" alt="Quality Engineering 360. One business journey. Every critical handoff. Explore QA strategy, hands-on delivery and B2B partnerships. Service portfolio in English and Italian." /></a>
+For a wider engagement, scope and team composition are agreed around the platform, responsibilities and delivery context.
 
-For a focused assessment, a delivery workstream or a wider partnership, we start with the constraint and agree the scope, responsibilities and specialist support needed.
+<a href="https://github.com/mr-jonam/quality-engineering-360"><img src="assets/qa360-feature.svg" width="100%" alt="Quality Engineering 360 — Explore the bilingual service portfolio: assessment, hands-on delivery and quality governance. English / Italiano. Open the service portfolio." /></a>
 
 ### Built to start better conversations
 

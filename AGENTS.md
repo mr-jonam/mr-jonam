@@ -13,4 +13,4 @@
 - Licence: user selected all rights reserved; review `LICENSE-DECISION.md` before changing terms.
 - Provenance: preserve the initial manifest; never add private keys or client material.
 - No donations. No automated publication or deployment.
-- Design proposals: `proposals/signal/README.md` and its original `assets/`; `DESIGN.md` describes application steps. Proposals do not replace the root profile until accepted. Local renders belong in ignored `preview/`.
+- Design archive: `proposals/signal/README.md` and its original `assets/`; `DESIGN.md` records the approved Signal design applied to the root profile. Local renders belong in ignored `preview/`.

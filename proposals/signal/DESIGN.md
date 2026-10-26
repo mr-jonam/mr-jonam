@@ -1,6 +1,6 @@
 # Signal Brief — proposta per il profilo
 
-Proposta del 26 ottobre 2026. Solo locale: il profilo pubblico resta nella versione pubblicata.
+Proposta del 26 ottobre 2026, approvata dall'utente e applicata al profilo di root con le revisioni richieste.
 
 ## Direzione
 
@@ -23,6 +23,6 @@ Le grafiche si riducono su mobile; i contenuti professionali e le CTA sono ripet
 
 Testi e SVG originali ricadono nella decisione esistente: tutti i diritti riservati. Nessuna donazione. Il manifest iniziale rimane immutato.
 
-Per applicare la proposta dopo l'approvazione: sostituire il README di root con questa versione, copiare questi SVG in `assets/`, correggere il collegamento finale da `../../LICENSE` a `LICENSE` e verificare il rendering GitHub prima di completare la pubblicazione richiesta. Nessun push è eseguito per questa proposta.
+La versione approvata mantiene le sezioni “Where I can help” e “Quality engineering, from strategy to delivery” del profilo precedente. Nel banner, SAP, Salesforce, Dynamics 365 e ServiceNow condividono font, dimensione, colore e peso bold. Il README di root usa gli SVG in `assets/` e il collegamento locale a `LICENSE`; questa copia conserva il percorso relativo alla licenza dalla directory della proposta. La pubblicazione è stata espressamente richiesta dall'utente.
 
 Riferimento visivo consultato: https://www.gitskins.com/readme-builder e immagine fornita dall'utente. GitSkins non è autore né sponsor di questa proposta.

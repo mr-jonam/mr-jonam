@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="272" viewBox="0 0 620 272" role="img" aria-labelledby="title desc">
+  <title id="title">Quality Atlas</title>
+  <desc id="desc">Give teams a shared language for quality. QA knowledge, onboarding and knowledge transfer in English and Italian.</desc>
+  <rect x=".5" y=".5" width="619" height="271" rx="12" fill="#10171e" stroke="#303e46"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="1.4" fill="#82dac9"><text x="32" y="40">02 / BUILD SHARED KNOWLEDGE</text><text x="588" y="40" text-anchor="end">↗</text></g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="32" y="97" fill="#f2f5f7" font-size="32" font-weight="700" letter-spacing="-.8">Quality Atlas</text>
+    <text x="32" y="143" fill="#afbec7" font-size="22">Give teams a shared language</text>
+    <text x="32" y="174" fill="#afbec7" font-size="22">for quality.</text>
+    <text x="32" y="235" fill="#82dac9" font-size="17">Knowledge / Onboarding / EN + IT →</text>
+  </g>
+  <g fill="none" stroke="#82dac9" stroke-width="1.4" stroke-opacity=".45">
+    <path d="M508 173L546 154L584 173L546 192ZM508 190L546 209L584 190M508 207L546 226L584 207"/>
+  </g>
+</svg>
