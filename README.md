@@ -1,10 +1,9 @@
 <img src="assets/signal-hero.svg" width="100%" alt="Manoj Rollo. Engineering quality. Enabling business. Senior Digital Test Engineer and Senior Consultant. 11+ years in digital, including 6+ years in testing. Enterprise platforms, automation, performance and API testing." />
 
 <p align="center">
-  <br />
-  <a href="https://www.linkedin.com/in/manoj-rollo/"><strong>Discuss your platform or release challenge ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="#choose-a-starting-point"><strong>Find a useful starting point ↓</strong></a>
+  <a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-discuss.svg" width="264" height="60" alt="Discuss your challenge on LinkedIn" /></a>
+  &nbsp;
+  <a href="#choose-a-starting-point"><img src="assets/cta-guides.svg" width="224" height="60" alt="Explore the guides below" /></a>
 </p>
 
 ### Business context. Engineering depth.
@@ -19,12 +18,14 @@ My background spans **11+ years in digital**, including **6+ years in software t
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/mr-jonam/digital-quality-compass"><img src="assets/compass-card.svg" width="100%" alt="Digital Quality Compass. Find the quality risk behind the business symptom. Explore the bilingual guide for business leaders." /></a><p><strong>Make the business concern clearer.</strong><br />Turn a release, reporting or customer-experience symptom into questions about the next decision and the evidence missing from it.<br /><a href="https://github.com/mr-jonam/digital-quality-compass"><strong>Explore Digital Quality Compass →</strong></a><br />For business and product leaders · EN / IT</p></td>
-    <td width="50%"><a href="https://github.com/mr-jonam/quality-atlas"><img src="assets/atlas-card.svg" width="100%" alt="Quality Atlas. Give teams a shared language for quality. Explore QA knowledge, onboarding and knowledge transfer in English and Italian." /></a><p><strong>Give the team a shared QA vocabulary.</strong><br />Use the knowledge base to support onboarding and handovers, clarify terms and prepare more focused discussions across roles.<br /><a href="https://github.com/mr-jonam/quality-atlas"><strong>Read Quality Atlas →</strong></a><br />For teams and onboarding · EN / IT</p></td>
+    <td width="50%"><a href="https://github.com/mr-jonam/digital-quality-compass"><img src="assets/compass-card.svg" width="100%" alt="Digital Quality Compass. Find the quality risk behind the business symptom. Explore the bilingual guide for business leaders." /></a><p><strong>Make the business concern clearer.</strong><br />Turn a release, reporting or customer-experience symptom into questions about the next decision and the evidence missing from it.</p><p><a href="https://github.com/mr-jonam/digital-quality-compass"><img src="assets/cta-compass.svg" width="228" height="60" alt="Explore Digital Quality Compass" /></a></p><p>For business and product leaders · EN / IT</p></td>
+    <td width="50%"><a href="https://github.com/mr-jonam/quality-atlas"><img src="assets/atlas-card.svg" width="100%" alt="Quality Atlas. Give teams a shared language for quality. Explore QA knowledge, onboarding and knowledge transfer in English and Italian." /></a><p><strong>Give the team a shared QA vocabulary.</strong><br />Use the knowledge base to support onboarding and handovers, clarify terms and prepare more focused discussions across roles.</p><p><a href="https://github.com/mr-jonam/quality-atlas"><img src="assets/cta-atlas.svg" width="228" height="60" alt="Read Quality Atlas" /></a></p><p>For teams and onboarding · EN / IT</p></td>
   </tr>
 </table>
 
-**Working with AI-generated output?** [Explore the QA & testing collection in Human-First Prompts →](https://github.com/mr-jonam/human-first-prompts/blob/master/prompts/qa-testing.md). Use it to make assumptions, evidence requests and human review explicit when preparing a brief. A specialist AI evaluation engagement can then be scoped around the actual system and its risks.
+**Working with AI-generated output?** Use the QA & testing collection in Human-First Prompts to make assumptions, evidence requests and human review explicit when preparing a brief. A specialist AI evaluation engagement can then be scoped around the actual system and its risks.
+
+<a href="https://github.com/mr-jonam/human-first-prompts/blob/master/prompts/qa-testing.md"><img src="assets/cta-prompts.svg" width="264" height="60" alt="Explore QA and testing prompts in Human-First Prompts" /></a>
 
 ### Explore testing questions for your platform
 
@@ -41,7 +42,9 @@ The latest advisory collection combines source-backed reading, small orientation
 | **Platform Performance Brief** | The demand assumptions behind average business transaction rates, with limits on what the calculation means. |
 | **Web Portal Quality Guide** | Journey, identity, accessibility and cross-platform handoff questions. |
 
-**[Request a guide preview or discuss your platform on LinkedIn ↗](https://www.linkedin.com/in/manoj-rollo/)** — mention the guide or platform and the decision ahead. Preview access and any further collaboration are agreed individually.
+<a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-preview.svg" width="264" height="60" alt="Request a guide preview on LinkedIn" /></a>
+
+Mention the guide or platform and the decision ahead. Preview access and any further collaboration are agreed individually.
 
 ### Where I can help
 
@@ -55,7 +58,9 @@ When the questions need real evidence, interpretation or execution, we can agree
 | An ERP/CRM change crosses several platforms | Business-journey validation across applications, integrations and data handoffs. | Shared coverage priorities and visibility of cross-system acceptance gaps. |
 | AI features need more than a happy-path demo | Evaluation scenarios, failure cases, human review and monitoring design. | An evaluation baseline and review criteria tied to the intended use. |
 
-**Choose the next level of support:** a focused assessment to understand the constraint, hands-on delivery support for an agreed scope, or ongoing quality governance and enablement. [Compare the engagement paths in Quality Engineering 360 →](https://github.com/mr-jonam/quality-engineering-360#choose-a-starting-point).
+**Choose the next level of support:** a focused assessment to understand the constraint, hands-on delivery support for an agreed scope, or ongoing quality governance and enablement.
+
+<a href="https://github.com/mr-jonam/quality-engineering-360#choose-a-starting-point"><img src="assets/cta-support.svg" width="280" height="60" alt="Explore professional support options in Quality Engineering 360" /></a>
 
 ### Quality engineering, from strategy to delivery
 
@@ -73,7 +78,7 @@ I welcome **consulting engagements, B2B delivery partnerships, collaboration wit
 
 Start with **the platform or journey, the next decision and its timing, and the main uncertainty**. A short message is enough; you do not need a completed assessment or a chosen tool. Keep client names, credentials and internal documents out of the initial message.
 
-**[Discuss scope and next steps on LinkedIn ↗](https://www.linkedin.com/in/manoj-rollo/)**
+<a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-next-steps.svg" width="280" height="60" alt="Discuss scope and next steps on LinkedIn" /></a>
 
 An initial exchange can clarify whether a focused assessment, delivery support or a B2B collaboration is the useful next step. Scope, outputs and contracting arrangements are agreed before an engagement.
 

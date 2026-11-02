@@ -104,3 +104,18 @@ professional context, contact, LICENSE and NOTICE remain applicable. No new
 dependency, collected data, donation link, workflow or deployment is introduced.
 The initial manifest is preserved; a separate unsigned integrity record captures
 this revision. No signing or encryption key has been supplied or generated.
+
+## Visual CTA review — 2 November 2026
+
+Component review before publication: eight original static SVG button images,
+README link presentation and the project navigation convention remain under the
+existing LicenseRef-Proprietary terms. LICENSE and NOTICE continue to apply.
+The buttons use original vector shapes and system-font references; no font file,
+third-party artwork, image service, dependency or executable content is added.
+
+Each image is linked individually to an existing approved public resource,
+README section or the approved LinkedIn contact. Private guide repositories
+remain private and are not linked. Existing professional claims and the
+individually agreed preview process remain unchanged. No analytics, data
+collection, funding, workflow or deployment is introduced. A separate unsigned
+integrity record captures this revision; prior records remain unchanged.
