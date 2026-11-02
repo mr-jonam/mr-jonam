@@ -1,0 +1,102 @@
+{
+  "schema": "mr-jonam.public-integrity.v1",
+  "project_id": "295a564c-74aa-446f-8d69-4903798a6ee7",
+  "project_token": "AEFvrOrF6ccxNRPAoSfcl_RIjMNN_QdurhtDGkw9e5Q",
+  "created_at": "2026-11-02T16:16:34.068Z",
+  "owner_ref": "mr-jonam",
+  "rights_profile": "restricted",
+  "record_type": "profile-funnel-refresh",
+  "initial_record": "manifest.json",
+  "change_scope": "Original CTA and funnel copy; public resource benefits and eight private-preview topics; existing professional claims, artwork and licence preserved.",
+  "license": {
+    "path": "LICENSE",
+    "sha256": "67ff4d81de0c22f98db883796932ec108218ff9828825046f0c41bb8d73a511a"
+  },
+  "source": {
+    "algorithm": "SHA-256",
+    "tree_digest": "6c2f52364f110126c31d353f84cf6fbe48709b42b132815121beaf8b0759baff",
+    "digest_format": "Sorted UTF-8 relative paths, NUL byte, binary SHA-256 for each file; excludes .provenance/",
+    "tracked_file_count": 19,
+    "files": [
+      {
+        "path": ".gitattributes",
+        "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+      },
+      {
+        "path": ".gitignore",
+        "sha256": "3a704be9130c6bc0aaf0e65c862586f4bed97d5901080356af0cf796343c1fff"
+      },
+      {
+        "path": "AGENTS.md",
+        "sha256": "1980af6d75121c50bf1b1c87afcde63e8cb57d8ef14f89c6f46646932878c5fa"
+      },
+      {
+        "path": "LICENSE",
+        "sha256": "67ff4d81de0c22f98db883796932ec108218ff9828825046f0c41bb8d73a511a"
+      },
+      {
+        "path": "LICENSE-DECISION.md",
+        "sha256": "d25d856f371fe0a5646a6d2e1a56333506bc07e76ad5e213db58d373a0982966"
+      },
+      {
+        "path": "NOTICE",
+        "sha256": "6f241ceac494f714afa20a9b56c55a0c17b38020178b5d9ef3c51985ad9897ac"
+      },
+      {
+        "path": "README.md",
+        "sha256": "149f7a161841fcddc7118e7cff8a94c5c03df945838bdb4e4d95d290c3c31447"
+      },
+      {
+        "path": "assets/atlas-card.svg",
+        "sha256": "c372b91746cf41fc449448ac0aad3f02b677d0bc2a25fb101ce2ccfa8f846bc3"
+      },
+      {
+        "path": "assets/compass-card.svg",
+        "sha256": "bbdce89847dc348fd2a18e9c6655e5df572ec318474110100324063ba8c54ef3"
+      },
+      {
+        "path": "assets/profile-hero.svg",
+        "sha256": "24b273a65ee2e4433b065bbf9e3848f122ea59f4aa2e788af1ffc365dd1e4670"
+      },
+      {
+        "path": "assets/qa360-feature.svg",
+        "sha256": "59273f2e43b3febd8f0196ae2161d09d1b0e2081f309d396d43815251105f723"
+      },
+      {
+        "path": "assets/services-card.svg",
+        "sha256": "77384e8722753548e143d224b3de1984409f603ca5248b171426ad0bc44e0401"
+      },
+      {
+        "path": "assets/signal-hero.svg",
+        "sha256": "d6bb0b96ff06a0db1ba1b32041b90debe65b3e90d21720b8760a93dea6cde54f"
+      },
+      {
+        "path": "proposals/signal/DESIGN.md",
+        "sha256": "65649adde90933450c1c3dc2b98fc5ed14a1e38c445c5edd5472ae0524372432"
+      },
+      {
+        "path": "proposals/signal/README.md",
+        "sha256": "76b6fe37b19b0783b3e2096055753c3653684db5358ab5c4a557568a18e2c5c4"
+      },
+      {
+        "path": "proposals/signal/assets/atlas-card.svg",
+        "sha256": "c372b91746cf41fc449448ac0aad3f02b677d0bc2a25fb101ce2ccfa8f846bc3"
+      },
+      {
+        "path": "proposals/signal/assets/compass-card.svg",
+        "sha256": "bbdce89847dc348fd2a18e9c6655e5df572ec318474110100324063ba8c54ef3"
+      },
+      {
+        "path": "proposals/signal/assets/qa360-feature.svg",
+        "sha256": "59273f2e43b3febd8f0196ae2161d09d1b0e2081f309d396d43815251105f723"
+      },
+      {
+        "path": "proposals/signal/assets/signal-hero.svg",
+        "sha256": "d6bb0b96ff06a0db1ba1b32041b90debe65b3e90d21720b8760a93dea6cde54f"
+      }
+    ]
+  },
+  "signature": null,
+  "encrypted_identity": null,
+  "limitations": "Unsigned integrity/correlation record; not conclusive legal ownership evidence. Initial record preserved."
+}

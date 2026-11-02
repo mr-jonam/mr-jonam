@@ -79,3 +79,28 @@ and digital communication work. The profile text, banner and design archive
 now state that distinction explicitly. Pre-publication component review:
 original text and SVG edits only; existing LICENSE and NOTICE remain applicable.
 No third-party content, dependency or change in rights was introduced.
+
+## Profile funnel review — 2 November 2026
+
+The README adds original navigation and CTA copy linking public orientation
+resources to a possible professional engagement. Existing LicenseRef-Proprietary
+terms continue to apply to profile copy and unchanged artwork. Public resource
+visibility and declared scope were checked through GitHub on 2 November 2026:
+Digital Quality Compass, Quality Atlas, Human-First Prompts and Quality Engineering
+360. Their material is linked, not copied or relicensed.
+
+The eight new digital-platform advisory repositories are private and remain
+private. The profile names their orientation topics and offers an individually
+agreed preview through the existing approved LinkedIn contact; it publishes no
+private repository URL, confidential source, delivery method or customer context.
+Their legal holder and final public-use licences remain unresolved separately.
+The personal profile's existing rights-holder decision does not resolve those
+projects' ownership or authorise their publication.
+
+Benefits are qualitative orientation outputs or objectives for a scoped
+engagement. No quantified performance improvement, client outcome, certification,
+availability commitment or new personal credential is asserted. Existing
+professional context, contact, LICENSE and NOTICE remain applicable. No new
+dependency, collected data, donation link, workflow or deployment is introduced.
+The initial manifest is preserved; a separate unsigned integrity record captures
+this revision. No signing or encryption key has been supplied or generated.
