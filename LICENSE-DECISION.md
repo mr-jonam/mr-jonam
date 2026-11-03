@@ -119,3 +119,11 @@ remain private and are not linked. Existing professional claims and the
 individually agreed preview process remain unchanged. No analytics, data
 collection, funding, workflow or deployment is introduced. A separate unsigned
 integrity record captures this revision; prior records remain unchanged.
+
+## Discovery and navigation review — 2026-11-03
+
+The original routing table and copyable discussion brief use existing approved public resource links and LinkedIn contact. Existing LicenseRef-Proprietary terms apply; LICENSE and NOTICE remain unchanged. No resource content is imported and no private preview URL is disclosed.
+
+External resources are linked, not copied. New wording describes reading outputs and objectives to scope, not guaranteed improvements, measured outcomes, vendor endorsement or new credentials. No customer data, confidential method, private repository link, paid service, analytics, funding change, workflow, release or deployment is introduced. Existing funding decisions are preserved.
+
+This is a scoped component and publication review, not an independent ownership determination. Existing provenance is preserved; an additive unsigned integrity record identifies the changed files. No signing key or encryption recipient was supplied, and no key or identity envelope is created.

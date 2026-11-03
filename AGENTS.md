@@ -16,3 +16,4 @@
 - Design archive: `proposals/signal/README.md` and its original `assets/`; `DESIGN.md` records the approved Signal design applied to the root profile. Local renders belong in ignored `preview/`.
 - Funnel: public orientation resources → optional private guide preview → scoped professional support via LinkedIn. Do not link private repositories from the public README; describe benefits as orientation outputs or scoped objectives, never guaranteed improvements.
 - CTA buttons: local `assets/cta-*.svg` images wrapped in individual README links; mint for contact/preview, dark with mint outline for resources. Keep descriptive alt text and avoid CSS-dependent buttons, which GitHub sanitises.
+- Promotion: the public-resource routing table precedes private previews; copyable briefs can name the source resource. Owner campaign drafts and share images belong in ignored `preview/`.

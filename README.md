@@ -16,6 +16,13 @@ My background spans **11+ years in digital**, including **6+ years in software t
 
 **Understand the concern → identify the missing evidence → discuss the right support.** Start with the resource closest to your situation; you can also contact me directly without completing a guide.
 
+| Start with your need | Public resource | A useful result to bring to a conversation |
+| --- | --- | --- |
+| Clarify a business or release concern | [Digital Quality Compass](https://github.com/mr-jonam/digital-quality-compass) | One uncertainty and the decision it affects. |
+| Align a team's understanding of QA | [Quality Atlas](https://github.com/mr-jonam/quality-atlas) | A shared term, learning need or handover question. |
+| Challenge an AI-assisted QA draft | [Human-First Prompts: QA & testing](https://github.com/mr-jonam/human-first-prompts/blob/master/prompts/qa-testing.md) | Assumptions and evidence requests for human review. |
+| Discuss assessment, delivery or a B2B partnership | [Quality Engineering 360](https://github.com/mr-jonam/quality-engineering-360#choose-a-starting-point) | A possible scope, responsibilities and outputs to agree. |
+
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/mr-jonam/digital-quality-compass"><img src="assets/compass-card.svg" width="100%" alt="Digital Quality Compass. Find the quality risk behind the business symptom. Explore the bilingual guide for business leaders." /></a><p><strong>Make the business concern clearer.</strong><br />Turn a release, reporting or customer-experience symptom into questions about the next decision and the evidence missing from it.</p><p><a href="https://github.com/mr-jonam/digital-quality-compass"><img src="assets/cta-compass.svg" width="228" height="60" alt="Explore Digital Quality Compass" /></a></p><p>For business and product leaders · EN / IT</p></td>
@@ -77,6 +84,10 @@ For a wider engagement, scope and team composition are agreed around the platfor
 I welcome **consulting engagements, B2B delivery partnerships, collaboration with system integrators and software teams, and relevant professional opportunities**.
 
 Start with **the platform or journey, the next decision and its timing, and the main uncertainty**. A short message is enough; you do not need a completed assessment or a chosen tool. Keep client names, credentials and internal documents out of the initial message.
+
+> I found [resource]. We are working on [platform / journey]. Before [decision and timing], we need to understand [missing evidence]. Could we discuss the appropriate support?
+
+[Use the short contact brief in English or Italian](https://github.com/mr-jonam/quality-engineering-360/blob/main/CONTACT.md).
 
 <a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-next-steps.svg" width="280" height="60" alt="Discuss scope and next steps on LinkedIn" /></a>
 
