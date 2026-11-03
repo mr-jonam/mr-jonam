@@ -1,0 +1,36 @@
+{
+  "schema": "mr-jonam.discovery-integrity.v1",
+  "project_id": "295a564c-74aa-446f-8d69-4903798a6ee7",
+  "owner_ref": "mr-jonam",
+  "created_at": "2026-11-03T10:31:06.642Z",
+  "record_type": "discovery-navigation-update",
+  "source_commit": "f27244b5869906da496351c5729f9ab5b144d56f",
+  "existing_identity_record": ".provenance/manifest.json",
+  "rights_profile": "LicenseRef-Proprietary",
+  "license": {
+    "path": "LICENSE",
+    "sha256": "67ff4d81de0c22f98db883796932ec108218ff9828825046f0c41bb8d73a511a"
+  },
+  "change_scope": "Original README routing, platform questions, CTA artwork, contact/share navigation and component rights review. Includes the two new overview images where listed.",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "4246b5b3b619b7ce71668cac7def973e48da8545f94158d86b1f28c0c6c3377c",
+      "representation": "Git blob bytes at source_commit"
+    },
+    {
+      "path": "LICENSE-DECISION.md",
+      "sha256": "78b8efa1a6b5e3ad015a40696d24d5e0ffe6f7283e2c11a2a26ff557975220fc",
+      "representation": "Git blob bytes at source_commit"
+    },
+    {
+      "path": "README.md",
+      "sha256": "6cd0507224d222804721f685d94d5f427690f41b218699d42ed73904265c5fc0",
+      "representation": "Git blob bytes at source_commit"
+    }
+  ],
+  "manifest_sha256": "f5a2690ed583bc0c902c1f401367450c06a5c3d359b7e784e4054fcf5c94f40f",
+  "signing": null,
+  "identity_envelope": null,
+  "limitations": "Unsigned integrity record. Preserves existing project identity and records; not conclusive legal authorship proof, DRM or guaranteed copy detection. No private key or plaintext private identity is included."
+}
