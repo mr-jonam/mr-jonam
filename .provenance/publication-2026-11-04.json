@@ -1,0 +1,53 @@
+{
+  "schema": "public-repository.integrity.v1",
+  "record_type": "public-repository-publication",
+  "review_date": "2026-11-04",
+  "created_at": "2026-11-04T13:33:12.275Z",
+  "project_id": "295a564c-74aa-446f-8d69-4903798a6ee7",
+  "project_token": "AEFvrOrF6ccxNRPAoSfcl_RIjMNN_QdurhtDGkw9e5Q",
+  "owner_ref": "mr-jonam",
+  "rights_profile": "LicenseRef-Proprietary",
+  "scope": "GitHub publication; website not deployed",
+  "license_sha256": "67ff4d81de0c22f98db883796932ec108218ff9828825046f0c41bb8d73a511a",
+  "tracked_tree_sha256": "c8c465decfe206881c8999bf9a410c627b76be9b54a020ec23743db2320d787d",
+  "hash_format": "SHA-256 of Git index blob bytes; tree digest is sorted relative path + NUL + hexadecimal SHA-256 + LF; all .provenance/ excluded",
+  "tracked_file_count": 27,
+  "files_sha256": {
+    ".gitattributes": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c",
+    ".gitignore": "3a704be9130c6bc0aaf0e65c862586f4bed97d5901080356af0cf796343c1fff",
+    "AGENTS.md": "c09aa56238117efa2ab3339cbb1fbf463c5386177d2adcd91a50688078df866d",
+    "LICENSE": "67ff4d81de0c22f98db883796932ec108218ff9828825046f0c41bb8d73a511a",
+    "LICENSE-DECISION.md": "4ef696c4a041ee2684b3ec98aad869a88a39dbf0208306f6794066035e32cc0f",
+    "NOTICE": "6f241ceac494f714afa20a9b56c55a0c17b38020178b5d9ef3c51985ad9897ac",
+    "README.md": "74729b02283706ecc5cba2b300148b2063d35a949f645e29951ad3799cc98738",
+    "assets/atlas-card.svg": "c372b91746cf41fc449448ac0aad3f02b677d0bc2a25fb101ce2ccfa8f846bc3",
+    "assets/compass-card.svg": "bbdce89847dc348fd2a18e9c6655e5df572ec318474110100324063ba8c54ef3",
+    "assets/cta-atlas.svg": "30c50f6fe69451f66fc816a00651a5c59629aee686d836a99207b6419a921769",
+    "assets/cta-compass.svg": "f702aef3c6a916d05933be1bdf85132e56a60004dda4c37b8b4446499ecd919a",
+    "assets/cta-discuss.svg": "e896e445a22dce336acddf3d3e4db9de2fb1a73008c64e5b7d3f11c4719d60f0",
+    "assets/cta-guides.svg": "6c2039280046b618eb31c864dff182f500d54cff0bff02330b85f5e540f5ac5f",
+    "assets/cta-next-steps.svg": "847d5d3484ecba2392e534f4c74e1fb23df459f35fb1308e234862587c66a5e0",
+    "assets/cta-preview.svg": "fcffe447fb829e612f775179d57770c3d948abaff8180b85bcd42d2fdda2c918",
+    "assets/cta-prompts.svg": "de19db34be5de4aa624716e075b05c77882dfbcdcc5e3192bc5ec06e0a282b96",
+    "assets/cta-support.svg": "42e2652f15d66565f9d02098eeecb36a91c90756470764ef57060ca122718880",
+    "assets/profile-hero.svg": "24b273a65ee2e4433b065bbf9e3848f122ea59f4aa2e788af1ffc365dd1e4670",
+    "assets/qa360-feature.svg": "59273f2e43b3febd8f0196ae2161d09d1b0e2081f309d396d43815251105f723",
+    "assets/services-card.svg": "77384e8722753548e143d224b3de1984409f603ca5248b171426ad0bc44e0401",
+    "assets/signal-hero.svg": "d6bb0b96ff06a0db1ba1b32041b90debe65b3e90d21720b8760a93dea6cde54f",
+    "proposals/signal/DESIGN.md": "65649adde90933450c1c3dc2b98fc5ed14a1e38c445c5edd5472ae0524372432",
+    "proposals/signal/README.md": "76b6fe37b19b0783b3e2096055753c3653684db5358ab5c4a557568a18e2c5c4",
+    "proposals/signal/assets/atlas-card.svg": "c372b91746cf41fc449448ac0aad3f02b677d0bc2a25fb101ce2ccfa8f846bc3",
+    "proposals/signal/assets/compass-card.svg": "bbdce89847dc348fd2a18e9c6655e5df572ec318474110100324063ba8c54ef3",
+    "proposals/signal/assets/qa360-feature.svg": "59273f2e43b3febd8f0196ae2161d09d1b0e2081f309d396d43815251105f723",
+    "proposals/signal/assets/signal-hero.svg": "d6bb0b96ff06a0db1ba1b32041b90debe65b3e90d21720b8760a93dea6cde54f"
+  },
+  "signing": {
+    "status": "not-configured",
+    "signature": null
+  },
+  "identity_encryption": {
+    "status": "not-configured",
+    "envelope": null
+  },
+  "limitations": "Unsigned integrity and correlation evidence only; no DRM or conclusive proof of ownership."
+}

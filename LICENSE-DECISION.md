@@ -127,3 +127,7 @@ The original routing table and copyable discussion brief use existing approved p
 External resources are linked, not copied. New wording describes reading outputs and objectives to scope, not guaranteed improvements, measured outcomes, vendor endorsement or new credentials. No customer data, confidential method, private repository link, paid service, analytics, funding change, workflow, release or deployment is introduced. Existing funding decisions are preserved.
 
 This is a scoped component and publication review, not an independent ownership determination. Existing provenance is preserved; an additive unsigned integrity record identifies the changed files. No signing key or encryption recipient was supplied, and no key or identity envelope is created.
+
+## Public advisory links review — 2026-11-04
+
+Scope: profile README, original CTA SVG and project-map wording. The eight advisory repository links replace private-preview copy after their public publication checks. No third-party code/artwork, customer material or new dependency is added. The existing profile LicenseRef-Proprietary selection and approved attribution/contact remain unchanged; no broader reuse grant is asserted. Preserve the initial and prior manifests and add an unsigned integrity record for the changed profile files. No workflow, hosting, funding or social posting is enabled.

@@ -36,22 +36,22 @@ My background spans **11+ years in digital**, including **6+ years in software t
 
 ### Explore testing questions for your platform
 
-The latest advisory collection combines source-backed reading, small orientation tools and optional assistant skills. Its useful result is a clearer question or discussion brief. **These eight guides are currently private previews**; request the topic that fits your situation through LinkedIn.
+The latest advisory collection combines source-backed reading, small orientation tools and optional assistant skills. Its useful result is a clearer question or discussion brief. **All eight guides are public**: read them directly on GitHub, try the HTML mini tools locally, then bring one unresolved question to a professional discussion.
 
 | Guide | What it can help you clarify |
 | --- | --- |
-| **Digital Platform Testing Guide** | Which platform, business journey and quality question to explore first. |
-| **SAP Testing Readiness** | Process, role, integration and acceptance questions around an SAP change. |
-| **ServiceNow Testing Readiness** | Workflow outcomes, upgrade questions and the scope of ATF evidence. |
-| **Salesforce Release Confidence** | Questions about Apex, configuration and business outcomes across a CRM release. |
-| **Dynamics 365 Testing Navigator** | Which application family and acceptance context apply before discussing RSAT or Power Apps tools. |
-| **AI Testing Evidence Guide** | Acceptable behaviour, evaluation evidence, ownership and human review. |
-| **Platform Performance Brief** | The demand assumptions behind average business transaction rates, with limits on what the calculation means. |
-| **Web Portal Quality Guide** | Journey, identity, accessibility and cross-platform handoff questions. |
+| [**Digital Platform Testing Guide**](https://github.com/mr-jonam/digital-platform-testing-guide) | Which platform, business journey and quality question to explore first. |
+| [**SAP Testing Readiness**](https://github.com/mr-jonam/sap-testing-readiness) | Process, role, integration and acceptance questions around an SAP change. |
+| [**ServiceNow Testing Readiness**](https://github.com/mr-jonam/servicenow-testing-readiness) | Workflow outcomes, upgrade questions and the scope of ATF evidence. |
+| [**Salesforce Release Confidence**](https://github.com/mr-jonam/salesforce-release-confidence) | Questions about Apex, configuration and business outcomes across a CRM release. |
+| [**Dynamics 365 Testing Navigator**](https://github.com/mr-jonam/dynamics-365-testing-navigator) | Which application family and acceptance context apply before discussing RSAT or Power Apps tools. |
+| [**AI Testing Evidence Guide**](https://github.com/mr-jonam/ai-testing-evidence-guide) | Acceptable behaviour, evaluation evidence, ownership and human review. |
+| [**Platform Performance Brief**](https://github.com/mr-jonam/platform-performance-brief) | The demand assumptions behind average business transaction rates, with limits on what the calculation means. |
+| [**Web Portal Quality Guide**](https://github.com/mr-jonam/web-portal-quality-guide) | Journey, identity, accessibility and cross-platform handoff questions. |
 
-<a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-preview.svg" width="264" height="60" alt="Request a guide preview on LinkedIn" /></a>
+<a href="https://github.com/mr-jonam/digital-platform-testing-guide/blob/master/REPOSITORIES.md"><img src="assets/cta-preview.svg" width="264" height="60" alt="Browse all eight public testing guides" /></a>
 
-Mention the guide or platform and the decision ahead. Preview access and any further collaboration are agreed individually.
+Read a guide, identify the missing evidence, then [discuss the appropriate professional support on LinkedIn](https://www.linkedin.com/in/manoj-rollo/). Mention the guide or platform and the decision ahead; assessment, delivery and collaboration are scoped individually.
 
 ### Where I can help
 
