@@ -131,3 +131,22 @@ This is a scoped component and publication review, not an independent ownership 
 ## Public advisory links review — 2026-11-04
 
 Scope: profile README, original CTA SVG and project-map wording. The eight advisory repository links replace private-preview copy after their public publication checks. No third-party code/artwork, customer material or new dependency is added. The existing profile LicenseRef-Proprietary selection and approved attribution/contact remain unchanged; no broader reuse grant is asserted. Preserve the initial and prior manifests and add an unsigned integrity record for the changed profile files. No workflow, hosting, funding or social posting is enabled.
+
+## Connected-platform visual review — 2026-11-17
+
+Component review: original English profile copy, three CTA images, three resource
+cards, desktop/mobile SVG heroes and an English promotional SVG/PNG. The existing
+LicenseRef-Proprietary decision, LICENSE and NOTICE cover these components.
+Artwork consists of original vector geometry and system-font references; no font
+files, vendor logos, third-party artwork or dependencies are redistributed.
+
+SVG animation uses local CSS only, supports reduced motion and conveys no live
+platform status or measured results. Public resources and the approved LinkedIn
+contact are linked; their contents are not copied or relicensed. Existing
+professional claims remain within the previously approved scope. No confidential
+material, analytics, funding, workflow or social publication is introduced.
+
+The initial manifest and previous integrity records remain unchanged. This
+revision adds an unsigned file-integrity record, not a signature or independent
+ownership determination. No signing key or encryption recipient was supplied;
+no keys or identity envelope are created.

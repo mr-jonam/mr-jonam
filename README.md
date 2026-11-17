@@ -1,98 +1,82 @@
-<img src="assets/signal-hero.svg" width="100%" alt="Manoj Rollo. Engineering quality. Enabling business. Senior Digital Test Engineer and Senior Consultant. 11+ years in digital, including 6+ years in testing. Enterprise platforms, automation, performance and API testing." />
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/platform-hero-mobile.svg" />
+  <img src="assets/platform-hero.svg" width="100%" alt="Manoj Rollo — Test the journey. Connect the evidence. Quality engineering for digital products and connected enterprise platforms: SAP, Salesforce, ServiceNow and Dynamics 365. QA assessment, automation, performance and AI testing." />
+</picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-discuss.svg" width="264" height="60" alt="Discuss your challenge on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-discuss.svg" width="338" height="64" alt="Discuss a QA assessment with Manoj on LinkedIn" /></a>
   &nbsp;
-  <a href="#choose-a-starting-point"><img src="assets/cta-guides.svg" width="224" height="60" alt="Explore the guides below" /></a>
+  <a href="#start-with-the-question-you-need-to-answer"><img src="assets/cta-guides.svg" width="294" height="64" alt="Explore the public QA guides below" /></a>
 </p>
 
-### Business context. Engineering depth.
+### Quality across the full business journey
 
-I'm **Manoj**, a Senior Digital Test Engineer / Senior Consultant at **Concept Quality Reply**, based in Turin, Italy. I help connect the quality of digital products with the business processes, teams and decisions behind them.
+Your platforms connect through **processes, data, integrations and roles**. Your testing needs to consider those connections too.
 
-My background spans **11+ years in digital**, including **6+ years in software testing**, building on earlier experience in **development, design and digital communication**. My testing work includes cross-platform automation, distributed performance testing, API validation and delivery coordination. Today, my focus includes **SAP, Salesforce, Microsoft Dynamics 365 and ServiceNow**, alongside custom web, mobile and integrated applications.
+I'm **Manoj Rollo**, Senior Digital Test Engineer / Senior Consultant at **Concept Quality Reply**, based in Turin, Italy. I work on quality and testing for **SAP, Salesforce, ServiceNow, Microsoft Dynamics 365 and custom digital platforms**, connecting requirements and test evidence to release decisions.
 
-### Choose a starting point
+My background spans **11+ years in digital, including 6+ years in software testing**. Practical work includes cross-platform automation, distributed performance testing, API validation and delivery coordination, with **Selenium, Appium, JMeter and CI/CD integration**.
 
-**Understand the concern → identify the missing evidence → discuss the right support.** Start with the resource closest to your situation; you can also contact me directly without completing a guide.
+**QA strategy & assessment · Functional testing · API & integration testing · Web & mobile automation · Performance & load testing · AI testing · UAT & release readiness**
 
-| Start with your need | Public resource | A useful result to bring to a conversation |
+### Start with the question you need to answer
+
+Public resources to make a concern clearer, align the discussion and prepare a useful next step.
+
+| Your question | Start here | What to bring to a discussion |
 | --- | --- | --- |
-| Clarify a business or release concern | [Digital Quality Compass](https://github.com/mr-jonam/digital-quality-compass) | One uncertainty and the decision it affects. |
-| Align a team's understanding of QA | [Quality Atlas](https://github.com/mr-jonam/quality-atlas) | A shared term, learning need or handover question. |
-| Challenge an AI-assisted QA draft | [Human-First Prompts: QA & testing](https://github.com/mr-jonam/human-first-prompts/blob/master/prompts/qa-testing.md) | Assumptions and evidence requests for human review. |
-| Discuss assessment, delivery or a B2B partnership | [Quality Engineering 360](https://github.com/mr-jonam/quality-engineering-360#choose-a-starting-point) | A possible scope, responsibilities and outputs to agree. |
+| Where could quality affect our business? | [**Digital Quality Compass**](https://github.com/mr-jonam/digital-quality-compass) | The business symptom, the decision it affects and the uncertainty behind it. |
+| How do we build a shared understanding of QA? | [**Quality Atlas**](https://github.com/mr-jonam/quality-atlas) | A learning, onboarding or handover question. |
+| How should we challenge an AI-assisted QA draft? | [**Human-First Prompts: QA & testing**](https://github.com/mr-jonam/human-first-prompts/blob/master/prompts/qa-testing.md) | Assumptions, evidence requests and points for human review. |
+| What should we consider across digital platforms? | [**Digital Platform Testing Guide**](https://github.com/mr-jonam/digital-platform-testing-guide) | A platform, business journey and testing question. |
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/mr-jonam/digital-quality-compass"><img src="assets/compass-card.svg" width="100%" alt="Digital Quality Compass. Find the quality risk behind the business symptom. Explore the bilingual guide for business leaders." /></a><p><strong>Make the business concern clearer.</strong><br />Turn a release, reporting or customer-experience symptom into questions about the next decision and the evidence missing from it.</p><p><a href="https://github.com/mr-jonam/digital-quality-compass"><img src="assets/cta-compass.svg" width="228" height="60" alt="Explore Digital Quality Compass" /></a></p><p>For business and product leaders · EN / IT</p></td>
-    <td width="50%"><a href="https://github.com/mr-jonam/quality-atlas"><img src="assets/atlas-card.svg" width="100%" alt="Quality Atlas. Give teams a shared language for quality. Explore QA knowledge, onboarding and knowledge transfer in English and Italian." /></a><p><strong>Give the team a shared QA vocabulary.</strong><br />Use the knowledge base to support onboarding and handovers, clarify terms and prepare more focused discussions across roles.</p><p><a href="https://github.com/mr-jonam/quality-atlas"><img src="assets/cta-atlas.svg" width="228" height="60" alt="Read Quality Atlas" /></a></p><p>For teams and onboarding · EN / IT</p></td>
+    <td width="50%"><a href="https://github.com/mr-jonam/digital-quality-compass"><img src="assets/compass-card.svg" width="100%" alt="Digital Quality Compass — Find the question behind the business concern. Explore the public guide." /></a></td>
+    <td width="50%"><a href="https://github.com/mr-jonam/quality-atlas"><img src="assets/atlas-card.svg" width="100%" alt="Quality Atlas — Build a shared QA vocabulary. Explore the public guide." /></a></td>
   </tr>
 </table>
 
-**Working with AI-generated output?** Use the QA & testing collection in Human-First Prompts to make assumptions, evidence requests and human review explicit when preparing a brief. A specialist AI evaluation engagement can then be scoped around the actual system and its risks.
+### Go deeper on your platform
 
-<a href="https://github.com/mr-jonam/human-first-prompts/blob/master/prompts/qa-testing.md"><img src="assets/cta-prompts.svg" width="264" height="60" alt="Explore QA and testing prompts in Human-First Prompts" /></a>
+Explore source-backed reading, small orientation tools and optional assistant skills. Start with one guide and identify a question worth investigating in your own context.
 
-### Explore testing questions for your platform
-
-The latest advisory collection combines source-backed reading, small orientation tools and optional assistant skills. Its useful result is a clearer question or discussion brief. **All eight guides are public**: read them directly on GitHub, try the HTML mini tools locally, then bring one unresolved question to a professional discussion.
-
-| Guide | What it can help you clarify |
-| --- | --- |
-| [**Digital Platform Testing Guide**](https://github.com/mr-jonam/digital-platform-testing-guide) | Which platform, business journey and quality question to explore first. |
-| [**SAP Testing Readiness**](https://github.com/mr-jonam/sap-testing-readiness) | Process, role, integration and acceptance questions around an SAP change. |
-| [**ServiceNow Testing Readiness**](https://github.com/mr-jonam/servicenow-testing-readiness) | Workflow outcomes, upgrade questions and the scope of ATF evidence. |
-| [**Salesforce Release Confidence**](https://github.com/mr-jonam/salesforce-release-confidence) | Questions about Apex, configuration and business outcomes across a CRM release. |
-| [**Dynamics 365 Testing Navigator**](https://github.com/mr-jonam/dynamics-365-testing-navigator) | Which application family and acceptance context apply before discussing RSAT or Power Apps tools. |
-| [**AI Testing Evidence Guide**](https://github.com/mr-jonam/ai-testing-evidence-guide) | Acceptable behaviour, evaluation evidence, ownership and human review. |
-| [**Platform Performance Brief**](https://github.com/mr-jonam/platform-performance-brief) | The demand assumptions behind average business transaction rates, with limits on what the calculation means. |
-| [**Web Portal Quality Guide**](https://github.com/mr-jonam/web-portal-quality-guide) | Journey, identity, accessibility and cross-platform handoff questions. |
-
-<a href="https://github.com/mr-jonam/digital-platform-testing-guide/blob/master/REPOSITORIES.md"><img src="assets/cta-preview.svg" width="264" height="60" alt="Browse all eight public testing guides" /></a>
-
-Read a guide, identify the missing evidence, then [discuss the appropriate professional support on LinkedIn](https://www.linkedin.com/in/manoj-rollo/). Mention the guide or platform and the decision ahead; assessment, delivery and collaboration are scoped individually.
-
-### Where I can help
-
-When the questions need real evidence, interpretation or execution, we can agree a professional scope. The improvements below are objectives to discuss; the achievable outcome depends on the starting point, evidence, scope and responsibilities.
-
-| Your challenge | Professional support to scope | Intended improvement |
+| Platform or concern | Public guide | Focus |
 | --- | --- | --- |
-| A critical release is approaching, but confidence is low | Risk and coverage review, dependencies and release evidence. | Clearer release criteria, evidence gaps and decision ownership. |
-| Regression is slow, automation is fragile, or performance surprises arrive late | Feedback bottlenecks, automation reliability, workload assumptions and CI/CD integration. | A prioritised improvement backlog and more relevant feedback against agreed quality targets. |
-| Teams and suppliers report progress differently | Shared quality criteria, test management and reporting responsibilities. | Comparable evidence and clearer escalation paths. |
-| An ERP/CRM change crosses several platforms | Business-journey validation across applications, integrations and data handoffs. | Shared coverage priorities and visibility of cross-system acceptance gaps. |
-| AI features need more than a happy-path demo | Evaluation scenarios, failure cases, human review and monitoring design. | An evaluation baseline and review criteria tied to the intended use. |
+| **SAP** | [SAP Testing Readiness](https://github.com/mr-jonam/sap-testing-readiness) | Business processes, roles, integrations and acceptance around a change. |
+| **Salesforce** | [Salesforce Release Confidence](https://github.com/mr-jonam/salesforce-release-confidence) | Apex, configuration and business outcomes across a CRM release. |
+| **ServiceNow** | [ServiceNow Testing Readiness](https://github.com/mr-jonam/servicenow-testing-readiness) | Workflow outcomes, upgrade questions and the scope of ATF evidence. |
+| **Microsoft Dynamics 365** | [Dynamics 365 Testing Navigator](https://github.com/mr-jonam/dynamics-365-testing-navigator) | Application families and acceptance context before choosing testing tools. |
+| **AI features** | [AI Testing Evidence Guide](https://github.com/mr-jonam/ai-testing-evidence-guide) | Acceptable behaviour, evaluation evidence, ownership and human review. |
+| **Performance** | [Platform Performance Brief](https://github.com/mr-jonam/platform-performance-brief) | Workload assumptions and the limits of simple transaction-rate estimates. |
+| **Web platforms & portals** | [Web Portal Quality Guide](https://github.com/mr-jonam/web-portal-quality-guide) | User journeys, identity, accessibility and cross-platform handoffs. |
 
-**Choose the next level of support:** a focused assessment to understand the constraint, hands-on delivery support for an agreed scope, or ongoing quality governance and enablement.
+**A useful starting point:** pick your platform, explore its guide and note one missing piece of evidence. The orientation materials support that discussion; decisions about a real release need evidence from the actual context.
 
-<a href="https://github.com/mr-jonam/quality-engineering-360#choose-a-starting-point"><img src="assets/cta-support.svg" width="280" height="60" alt="Explore professional support options in Quality Engineering 360" /></a>
+### From a useful question to professional support
 
-### Quality engineering, from strategy to delivery
+When you need context-specific evidence, interpretation or execution, we can define the appropriate scope together.
 
-**QA strategy & assessment** · **Functional & exploratory testing** · **API & integration testing** · **Web & mobile automation** · **Performance & load testing** · **UAT & release readiness** · **AI testing** · **Test management & delivery coordination**
+| What you need | Support to scope | Outputs to agree |
+| --- | --- | --- |
+| **Understand the current situation** | QA assessment across risk, coverage, dependencies and ownership. | A situation report with evidence, gaps and prioritised actions. |
+| **Validate a change or release** | Functional, integration, automation, performance or AI testing for an agreed scope. | Relevant test evidence, findings and visibility of unresolved risks. |
+| **Improve how quality is delivered** | Test strategy, reporting, automation reliability, quality governance and team enablement. | A prioritised improvement plan, shared criteria and responsibilities. |
 
-My practical background includes **Selenium, Appium, JMeter, API testing and CI/CD integration**. I start with the business process and the delivery constraint, then select the tools and specialist support that fit.
+These are objectives and deliverables to agree. The useful approach depends on your platform, constraints, starting evidence and delivery responsibilities.
 
-For a wider engagement, scope and team composition are agreed around the platform, responsibilities and delivery context.
+<a href="https://github.com/mr-jonam/quality-engineering-360"><img src="assets/qa360-feature.svg" width="100%" alt="Quality Engineering 360 — From questions to a scoped engagement. Explore assessment, delivery support and quality governance." /></a>
 
-<a href="https://github.com/mr-jonam/quality-engineering-360"><img src="assets/qa360-feature.svg" width="100%" alt="Quality Engineering 360 — Explore the bilingual service portfolio: assessment, hands-on delivery and quality governance. English / Italiano. Open the service portfolio." /></a>
+### Bring the context. Let's scope the evidence.
 
-### Discuss the decision ahead
+**Planning a release, assessing your testing or looking for a QA delivery partner?** Message me on LinkedIn with **your platform, the planned change and the main uncertainty**. We can discuss an assessment and situation report, hands-on support or a B2B collaboration.
 
-I welcome **consulting engagements, B2B delivery partnerships, collaboration with system integrators and software teams, and relevant professional opportunities**.
+> We are working on [platform / business journey]. Before [decision and timing], we need to understand [testing concern or missing evidence]. Could we discuss the appropriate support?
 
-Start with **the platform or journey, the next decision and its timing, and the main uncertainty**. A short message is enough; you do not need a completed assessment or a chosen tool. Keep client names, credentials and internal documents out of the initial message.
+<a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-next-steps.svg" width="360" height="64" alt="Discuss scope and next steps with Manoj on LinkedIn" /></a>
 
-> I found [resource]. We are working on [platform / journey]. Before [decision and timing], we need to understand [missing evidence]. Could we discuss the appropriate support?
+[Explore professional support in Quality Engineering 360](https://github.com/mr-jonam/quality-engineering-360) · [Short contact brief: English / Italiano](https://github.com/mr-jonam/quality-engineering-360/blob/main/CONTACT.md) · [Technical & creative portfolio](https://github.com/MRJonam91)
 
-[Use the short contact brief in English or Italian](https://github.com/mr-jonam/quality-engineering-360/blob/main/CONTACT.md).
+Follow this profile for public QA resources and reviewed updates. Scope, outputs, availability and contracting arrangements are agreed before an engagement.
 
-<a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-next-steps.svg" width="280" height="60" alt="Discuss scope and next steps on LinkedIn" /></a>
-
-An initial exchange can clarify whether a focused assessment, delivery support or a B2B collaboration is the useful next step. Scope, outputs and contracting arrangements are agreed before an engagement.
-
-[Technical & creative portfolio →](https://github.com/MRJonam91)
-
-<sub>Personal professional profile. Scope, availability and contracting arrangements are agreed separately. Employer and platform references do not imply endorsement. © 2026 Manoj Rollo. Original text and artwork: all rights reserved. [LICENSE](LICENSE).</sub>
+<sub>Personal professional profile. Employer and platform references do not imply endorsement. © 2026 Manoj Rollo. Original text and artwork: all rights reserved. [LICENSE](LICENSE).</sub>

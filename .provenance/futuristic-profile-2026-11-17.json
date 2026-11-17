@@ -1,0 +1,72 @@
+{
+  "schema": "mr-jonam.revision-integrity.v1",
+  "revision_id": "6d8108fb-a441-4cdc-9928-99380cccf915",
+  "created_at": "2026-11-17T14:33:29.2094046Z",
+  "owner_ref": "mr-jonam",
+  "base_commit": "e4993bda72a2cca37775948c890741243ac05b45",
+  "initial_manifest": "manifest.json",
+  "scope": "English connected-platform GitHub profile, original responsive animated artwork, linked CTAs and promotional image.",
+  "license": {
+    "path": "LICENSE",
+    "identifier": "LicenseRef-Proprietary",
+    "sha256": "67ff4d81de0c22f98db883796932ec108218ff9828825046f0c41bb8d73a511a"
+  },
+  "normalization": "UTF-8 text without BOM, LF line endings; PNG hashed as binary.",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "bed5dfcd2970d0847c31f2ae544b8712816077fff142d137dd6587b69f0e66af"
+    },
+    {
+      "path": "assets/atlas-card.svg",
+      "sha256": "76efc4f749267c535eea9cc4dbb56dca7b3e6e6949fb31a3fe0ac2e0c67a0e11"
+    },
+    {
+      "path": "assets/compass-card.svg",
+      "sha256": "5e0c964e73a53bc8a314f26fed18e2dafefa90844154209c24c428db2296fa2c"
+    },
+    {
+      "path": "assets/cta-discuss.svg",
+      "sha256": "2ad203bd91b2c83356485104639205e24cfeac19f115a575305c78650eee6049"
+    },
+    {
+      "path": "assets/cta-guides.svg",
+      "sha256": "6722944d0250fd87a51ba4fac44e6bec912d40ce046651baa6248b838f1eaf83"
+    },
+    {
+      "path": "assets/cta-next-steps.svg",
+      "sha256": "510e61797758402b2413d4eafe3a1f323f21a0df017736fdce9994b89367cbc8"
+    },
+    {
+      "path": "assets/github-featured-en.png",
+      "sha256": "653fa35439ba289f4212b04aef61a4b5e05c354e92b884842f925d6979583657"
+    },
+    {
+      "path": "assets/github-featured-en.svg",
+      "sha256": "0e302d8ba58d992887e2963dc1736b4aeceb9ff2b3ff28601091427858e1329a"
+    },
+    {
+      "path": "assets/platform-hero-mobile.svg",
+      "sha256": "a500b9b4a62b632a644dbdf867aee3645fc71bc589791f6e450ff45356d3c621"
+    },
+    {
+      "path": "assets/platform-hero.svg",
+      "sha256": "9f8d983d3144fdfcdd0af1c01bf9bdc28dbf5d44b05e1073fddea3e8409efb02"
+    },
+    {
+      "path": "assets/qa360-feature.svg",
+      "sha256": "e6a2a1fd82af995d0845729a6ec1a4b4d827f172c984ac5af4eb1ff52f7b13f7"
+    },
+    {
+      "path": "LICENSE-DECISION.md",
+      "sha256": "59a570ce8f187fa04ad2b31f15dc7ee196bdb8f1fc374473b475541e8f2179e7"
+    },
+    {
+      "path": "README.md",
+      "sha256": "7b8e0cd16399b53ffb6e193cde12cf87a2ef7f23b79ff6247222336064e0a2c0"
+    }
+  ],
+  "signature": null,
+  "encrypted_identity": null,
+  "limitations": "Unsigned integrity record only; does not independently establish ownership or legal authorship. No signing key or encryption recipient configured."
+}
