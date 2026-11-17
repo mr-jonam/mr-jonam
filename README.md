@@ -4,9 +4,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-discuss.svg" width="338" height="64" alt="Discuss a QA assessment with Manoj on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-discuss-platform.svg" width="338" height="64" alt="Discuss a QA assessment with Manoj on LinkedIn" /></a>
   &nbsp;
-  <a href="#start-with-the-question-you-need-to-answer"><img src="assets/cta-guides.svg" width="294" height="64" alt="Explore the public QA guides below" /></a>
+  <a href="#start-with-the-question-you-need-to-answer"><img src="assets/cta-guides-platform.svg" width="294" height="64" alt="Explore the public QA guides below" /></a>
 </p>
 
 ### Quality across the full business journey
@@ -32,8 +32,8 @@ Public resources to make a concern clearer, align the discussion and prepare a u
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/mr-jonam/digital-quality-compass"><img src="assets/compass-card.svg" width="100%" alt="Digital Quality Compass — Find the question behind the business concern. Explore the public guide." /></a></td>
-    <td width="50%"><a href="https://github.com/mr-jonam/quality-atlas"><img src="assets/atlas-card.svg" width="100%" alt="Quality Atlas — Build a shared QA vocabulary. Explore the public guide." /></a></td>
+    <td width="50%"><a href="https://github.com/mr-jonam/digital-quality-compass"><img src="assets/compass-platform-card.svg" width="100%" alt="Digital Quality Compass — Find the question behind the business concern. Explore the public guide." /></a></td>
+    <td width="50%"><a href="https://github.com/mr-jonam/quality-atlas"><img src="assets/atlas-platform-card.svg" width="100%" alt="Quality Atlas — Build a shared QA vocabulary. Explore the public guide." /></a></td>
   </tr>
 </table>
 
@@ -65,7 +65,7 @@ When you need context-specific evidence, interpretation or execution, we can def
 
 These are objectives and deliverables to agree. The useful approach depends on your platform, constraints, starting evidence and delivery responsibilities.
 
-<a href="https://github.com/mr-jonam/quality-engineering-360"><img src="assets/qa360-feature.svg" width="100%" alt="Quality Engineering 360 — From questions to a scoped engagement. Explore assessment, delivery support and quality governance." /></a>
+<a href="https://github.com/mr-jonam/quality-engineering-360"><img src="assets/qa360-platform-feature.svg" width="100%" alt="Quality Engineering 360 — From questions to a scoped engagement. Explore assessment, delivery support and quality governance." /></a>
 
 ### Bring the context. Let's scope the evidence.
 
@@ -73,7 +73,7 @@ These are objectives and deliverables to agree. The useful approach depends on y
 
 > We are working on [platform / business journey]. Before [decision and timing], we need to understand [testing concern or missing evidence]. Could we discuss the appropriate support?
 
-<a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-next-steps.svg" width="360" height="64" alt="Discuss scope and next steps with Manoj on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-next-steps-platform.svg" width="360" height="64" alt="Discuss scope and next steps with Manoj on LinkedIn" /></a>
 
 [Explore professional support in Quality Engineering 360](https://github.com/mr-jonam/quality-engineering-360) · [Short contact brief: English / Italiano](https://github.com/mr-jonam/quality-engineering-360/blob/main/CONTACT.md) · [Technical & creative portfolio](https://github.com/MRJonam91)
 
