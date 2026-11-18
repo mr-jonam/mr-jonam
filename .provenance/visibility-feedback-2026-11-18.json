@@ -1,0 +1,27 @@
+{
+  "schema": "mr-jonam.visibility-feedback-integrity.v1",
+  "change_id": "0d734ece-5a17-4b87-96fd-867a7853e432",
+  "owner_ref": "mr-jonam",
+  "date": "2026-11-18",
+  "source_base_commit": "22b12fcc37c259d135fb17196e9cedf31db9f98b",
+  "existing_identity_record": ".provenance/manifest.json",
+  "scope": "Only listed original editorial changes, template and component review; private coordinator also includes aggregate KPI observations and planning. No application-code or full historical rights audit.",
+  "representation": "UTF-8 text with CRLF normalised to LF; working-tree content before local change commit",
+  "license": {
+    "path": "LICENSE",
+    "sha256": "67ff4d81de0c22f98db883796932ec108218ff9828825046f0c41bb8d73a511a"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "45dd87636f17d40ab2d3d97a28fde3f0ae2fade4dbb63cbf8f67189d2a3df8b9"
+    },
+    {
+      "path": "LICENSE-DECISION.md",
+      "sha256": "979e29218597892a7740edfb697d78c46b601acb33944f8437590d5d7b9c0cf8"
+    }
+  ],
+  "signing": null,
+  "identity_envelope": null,
+  "limitations": "Unsigned integrity snapshot; no new project identity or private key. Does not establish ownership, adoption or causal impact. Existing provenance remains historical."
+}

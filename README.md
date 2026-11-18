@@ -3,6 +3,18 @@
   <img src="assets/platform-hero.svg" width="100%" alt="Manoj Rollo — Test the journey. Connect the evidence. Quality engineering for digital products and connected enterprise platforms: SAP, Salesforce, ServiceNow and Dynamics 365. QA assessment, automation, performance and AI testing." />
 </picture>
 
+### Try one QA example in five minutes
+
+Start with a small result you can inspect directly on GitHub. No setup or professional enquiry is needed.
+
+| What you want to try | Worked example | What to look for |
+| --- | --- | --- |
+| Make a release discussion clearer | [Quality Atlas: one fact, one evidence gap, one owner](https://github.com/mr-jonam/quality-atlas/blob/main/examples/first-release-review.md) | Can you identify what still needs a decision? |
+| Review an AI-assisted QA draft | [Human-First Prompts: receipt-email evidence review](https://github.com/mr-jonam/human-first-prompts/blob/master/examples/qa-evidence-review.md) | Which claim would you keep, challenge or remove? |
+| Prepare a platform-testing question | [Digital Platform Testing Guide: a first discussion brief](https://github.com/mr-jonam/digital-platform-testing-guide/blob/master/examples/FIRST-RESULT.md) | Which part of the business journey needs evidence? |
+
+**Tried a resource?** [Tell us which Atlas instruction was unclear](https://github.com/mr-jonam/quality-atlas/issues/new?template=example-feedback.md), or [report one prompt result that needed correction](https://github.com/mr-jonam/human-first-prompts/issues/new?template=example-feedback.md). A short synthetic example is enough; English and Italian are welcome. Follow this profile for new QA examples and improvements informed by reader feedback.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-discuss-platform.svg" width="338" height="64" alt="Discuss a QA assessment with Manoj on LinkedIn" /></a>
   &nbsp;
