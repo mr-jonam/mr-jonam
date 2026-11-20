@@ -3,6 +3,14 @@
   <img src="assets/platform-hero.svg" width="100%" alt="Manoj Rollo — Test the journey. Connect the evidence. Quality engineering for digital products and connected enterprise platforms: SAP, Salesforce, ServiceNow and Dynamics 365. QA assessment, automation, performance and AI testing." />
 </picture>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-discuss-platform.svg" width="338" height="64" alt="Discuss a QA assessment with Manoj on LinkedIn" /></a>
+  &nbsp;
+  <a href="#go-deeper-on-your-platform"><img src="assets/cta-guides-platform.svg" width="294" height="64" alt="Explore the testing guides" /></a>
+</p>
+
+Planning a release? [Message me on LinkedIn](https://www.linkedin.com/in/manoj-rollo/) with the **platform, what is changing and the release decision you still need to make**.
+
 ### Try one QA example in five minutes
 
 Start with a small result you can inspect directly on GitHub. No setup or professional enquiry is needed.
@@ -14,12 +22,6 @@ Start with a small result you can inspect directly on GitHub. No setup or profes
 | Prepare a platform-testing question | [Digital Platform Testing Guide: a first discussion brief](https://github.com/mr-jonam/digital-platform-testing-guide/blob/master/examples/FIRST-RESULT.md) | Which part of the business journey needs evidence? |
 
 **Tried a resource?** [Tell us which Atlas instruction was unclear](https://github.com/mr-jonam/quality-atlas/issues/new?template=example-feedback.md), or [report one prompt result that needed correction](https://github.com/mr-jonam/human-first-prompts/issues/new?template=example-feedback.md). A short synthetic example is enough; English and Italian are welcome. Follow this profile for new QA examples and improvements informed by reader feedback.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manoj-rollo/"><img src="assets/cta-discuss-platform.svg" width="338" height="64" alt="Discuss a QA assessment with Manoj on LinkedIn" /></a>
-  &nbsp;
-  <a href="#start-with-the-question-you-need-to-answer"><img src="assets/cta-guides-platform.svg" width="294" height="64" alt="Explore the public QA guides below" /></a>
-</p>
 
 ### Quality across the full business journey
 
